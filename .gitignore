@@ -1,0 +1,28 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Logs
+*.log
+
+# Local media (不要把测试音频/图片提交到仓库)
+*.mp3
+*.wav
+*.flac
+*.m4a
+*.aac
+*.ogg
+
+# Node (如果以后引入构建工具)
+node_modules/
+dist/
+
+# Misc
+*.tmp
